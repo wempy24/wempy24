@@ -35,3 +35,7 @@ Connect with me :
 ![https://github-readme-stats.vercel.app/api?username=wempy24&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=wempy24&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=FF0000)
 
 ---
+
+## Start
+<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api?username=NazwaS&show_icons=true&theme=radical"></a>
+<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazwaS&theme=highcontrast&layout=compact"></a>
