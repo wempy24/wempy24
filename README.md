@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**wempy24/wempy24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h1> Hai, welcome :wave:</h1>
+</div>
 
-Here are some ideas to get you started:
+&nbsp;
+&nbsp;
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://avatars.githubusercontent.com/u/74690366?s=400&u=8b0bd80d74c7b7376382ed5b07a61527c9f5ae8f&v=4" width="120" height="120" align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<center>
+  Contacts me :
+  
