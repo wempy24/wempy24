@@ -23,3 +23,7 @@ Connect with me :
 <img src="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" width="310">
 
 ---
+
+&nbsp;&nbsp;&nbsp;
+
+![https://github-readme-stats.vercel.app/api?username=wempy24&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=wempy24&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=FF0000)
