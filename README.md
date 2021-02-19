@@ -19,14 +19,4 @@ Contacts me :
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" width="310">
-
- <summary>🥟 Help me!</summary>
- 
- [SAWERIA](https://saweria.co/wempykaguyabot)
-
-<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
- 
-it's all free, don't be stingy ⭐️ yes: D
-<p align="center"><a href="https://instagram.com/wem_.24" target="_blank">Help follow my instagram</a>.</p>
-<p align="center"><a href="https://wa.me/6285746897368" target="_blank">Chat me on Whatsapp</a>.</p>
-</div>
+<img src="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" width="310">
