@@ -12,5 +12,5 @@
 <center>
 Contacts me :
 
-<a href="http://wa.me/6285746897368?text=Assalamualaikum"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/WhatsApp.png" alt="alt text" width="20" height="20"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://instagram.com/mrf.zvx"><img src="https://user-images.githubusercontent.com/72728486/104810775-99131480-5829-11eb-949e-4855c7953bea.jpg" alt="alt text" width="20" height="20"></a>
+<a href="http://wa.me/6285746897368?text=Assalamualaikum"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/WhatsApp.png" alt="alt text" width="20" height="20"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://instagram.com/wem_.24"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
