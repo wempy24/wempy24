@@ -37,5 +37,5 @@ Connect with me :
 ---
 
 ## Start
-<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api?username=NazwaS&show_icons=true&theme=radical"></a>
-<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazwaS&theme=highcontrast&layout=compact"></a>
+<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api?username=wempy24&show_icons=true&theme=radical"></a>
+<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wempy24&theme=highcontrast&layout=compact"></a>
