@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h1> [00FF00]Hai, welcome :wave:</h1>
+    <h1> Hai, welcome :wave:</h1>
 </div>
 
 &nbsp;
